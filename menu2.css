@@ -81,8 +81,8 @@ body
 	font-size: 100px;
 	color: white;
 	position: relative;
-	top: 0%;
-	right: -18%;
+	top:20px;
+	right:10px;
 	transition: 1.5s;
 
 }

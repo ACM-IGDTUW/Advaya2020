@@ -1,7 +1,3 @@
-body, html {
-  height: 100vh;
-}
-
 /*For fixing the background image*/
 .background{
     background-image:url("animalbg.jpg");
@@ -59,14 +55,6 @@ body, html {
   bottom:0;
   left:0;
 }
-
-.foot a {
-  padding-right: 10px;
-}
-
-.foot2 a {
-  padding-right: 10px;
-}
 /*horizontal rule, to be included with the footer*/
 .hori
 {
@@ -114,7 +102,3 @@ ul {
   li a:hover{
     background-color: #111;
   }
-
-.material-icons {
-  margin-top: 25px;
-}
