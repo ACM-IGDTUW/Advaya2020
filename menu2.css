@@ -69,6 +69,13 @@ body
 	
 }
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
 
 #add{
 	font-size: 100px;
@@ -80,9 +87,18 @@ body
 
 }
 
-a>.material-icons:hover{
-	color: #000000;
+#add: hover{
+	background-color: black;
+}
+
+a>.material-icons{
+	color: #d2d2d2;
 	font-size: 60px;
+}
+
+a>.material-icons:hover{
+	background-color: black;
+
 }
 
 a{
@@ -120,6 +136,6 @@ a{
 }  
 
 .h4:hover{
-    color:#000000;
+    color:white;
     cursor: pointer;
 }
