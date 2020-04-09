@@ -1,2 +1,3 @@
-# ACM_website
-This is the Github Folder containing the source sode for Advaya was proposed to be the first ever technical week of IGDTUW presented by the ACM student Chapter.But,due to circumstances Advaya turns out to be the First Ever 'Online' Technical week of IGDTUW.Begining from the 12th April,get ready to take a deep dive in this Enriching Quest!
+# Advaya'20
+
+ACM-IGDTUW brings to you Advaya'20, an online Tech Week, starting from the 12th of April to the 18th of April, full of fun events. For more information regarding the events and schedule, please go to Advaya'20 website [here]().
